@@ -3,6 +3,7 @@ backend/node_modules/
 backend/.env
 *.log
 dist/
+*.lock
 
 
 # React Frontend
